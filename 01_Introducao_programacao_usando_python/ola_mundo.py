@@ -1,1 +1,0 @@
-print(" iniciando meus estudos de data Science!")
