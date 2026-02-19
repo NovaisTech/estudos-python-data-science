@@ -3,11 +3,10 @@
 Este diretório contém as resoluções dos exercícios baseados no livro:
 
 <p align="center">
-  <img src="assets/capa.png" alt="Capa do Livro" width="400">
+  <img src="assets/LJUBOMIR PERKOVIC.png" alt="Capa do Livro" width="400">
 </p>
 
 ### Créditos
-* **Livro:** Introdução à Programação com Python (Algoritmos e Lógica de Programação para Iniciantes).
-* **Edição:** 4ª edição - atualizada em 26 de março de 2024.
-* **Autor:** Nilo Ney Coutinho Menezes.
-* **Mais informações:** [nilo.pro.br](https://nilo.pro.br)
+* **Livro:** Introdução à Computação Usando Python: Um Foco no Desenvolvimento de Aplicações.
+* **Autor:** Ljubomir Perkovic.
+* **Editora:** LTC.
