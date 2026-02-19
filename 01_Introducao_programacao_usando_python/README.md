@@ -7,6 +7,6 @@ Este diretório contém as resoluções dos exercícios baseados no livro:
 </p>
 
 ### Créditos
-* **Livro:** Introdução à Computação Usando Python: Um Foco no Desenvolvimento de Aplicações.
+* **Livro:** Introdução à Computação Usando Python (Desenvolvimento de Aplicações).
 * **Autor:** Ljubomir Perkovic.
 * **Editora:** LTC.
