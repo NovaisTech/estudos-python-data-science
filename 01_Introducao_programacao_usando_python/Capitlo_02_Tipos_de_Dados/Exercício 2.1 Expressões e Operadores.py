@@ -2,9 +2,11 @@
 
 # A soma dos 5 primeiros números inteiros positivos.
 
+print(1+2+3+4+5)
 
 # A idade média de três pessoas (ex: 23, 19 e 31).
-
+mediaIdade = (23 + 19 + 31) /6
+print(mediaIdade)
 
 # O número de vezes que 73 cabe em 403.
 
