@@ -30,18 +30,25 @@ elif sum(numeros) == 12:
 else:
     print("A soma é menor que 12")        
 print("*********************************************************************")
+
 # 1387 é divisível por 19.
+
+n_divisivel = 1387 / 19
+print("Divisão de 1387 por 19 =",n_divisivel)
 
 
 
 print("*********************************************************************")
 # 31 é par. (Dica: o que o resto lhe diz quando você divide por 2?)
 
+print(31 % 2 == 0) 
 
 
 print("*********************************************************************")
 # O preço mais baixo dentre R$ 34,99, R$ 29,95 e R$ 31,50 é menor que R$ 30,00.*
 
+lista_precos = [34.99, 29.95, 31.50]
+print("Saber se o menor número da lista de preços é menor que R$30 )", min(lista_precos) < 30.00)
 
 print("*********************************************************************")
 # Atribuir o valor inteiro 3 à variável a.
