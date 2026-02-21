@@ -21,7 +21,12 @@ print("O resto da divisão de 403 por 73 é calculado usando o operador de %, e 
 print(2**10)
 
 # O valor absoluto da diferença entre a altura de duas pessoas (ex: 54 e 57).
+# nesse caso pra encontra o valor absoluto precisamos usa a função abs() 
 
-
+print("O valor absoluto entre a diferença de 54 - 57 é igaul a ", abs(54 - 57))
 
 # O menor preço entre uma lista de valores (ex: 34.99, 29.95 e 31.50).
+#aqui é definido uma variável lista com os valores e usado a função min(valores) que verifica dentro da lista qual menor valor
+
+valores = 34.99, 29.95, 31.50
+print(min(valores))
