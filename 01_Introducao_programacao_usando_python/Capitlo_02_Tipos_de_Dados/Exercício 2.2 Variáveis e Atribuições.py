@@ -1,6 +1,11 @@
-#Traduza os comandos a seguir para expressões Booleanas em Python e avalie-as:
-# A soma de 2 e 2 é menor que 4.
+# 2.2 Strings: 
+# Explora a manipulação de texto, incluindo concatenação, replicação e indexação.
+# Os exercícios desafiam o aluno a extrair partes específicas de uma frase.
+# -------------------------------------------//-------------------------------------------------#
 
+#Traduza os comandos a seguir para expressões Booleanas em Python e avalie-as:
+
+# A soma de 2 e 2 é menor que 4.
 soma = 2 + 2 
 print(f"A soma de 2 e 2 é menor que 4",soma > 4)
 print("*********************************************************************")

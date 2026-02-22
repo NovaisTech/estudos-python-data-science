@@ -1,4 +1,9 @@
-# Exercício 1.1: Escreva expressões algébricas em Python que correspondam ao seguinte:
+# 2.1 Expressões, Variáveis e Atribuições:
+# Foca na sintaxe de operadores matemáticos e na criação de variáveis para armazenar resultados.
+# Os exercícios buscam fixar a precedência de operadores e o uso do sinal de igual (=) para atribuição.
+# -------------------------------------------//-------------------------------------------------#
+
+#  Escreva expressões algébricas em Python que correspondam ao seguinte:
 
 # A soma dos 5 primeiros números inteiros positivos.
 print(1+2+3+4+5)
